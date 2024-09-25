@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi im senna! I'm a software engineering student<br>and I'm currently working on Web development<br>and Godot
+I'm a software engineering student<br>and I'm currently working on Web development<br>and Godot
 
 
 ## 🌐 Socials:
